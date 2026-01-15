@@ -3,7 +3,7 @@ title = "On Apelles"
 date = "2025-06-15"
 
 [taxonomies]
-tags = ["linux", "apelles", "operating system"]
+tags = ["linux", "apelles"]
 +++
 
 There is a thing about machines nowadays, they are fast, very fast. But, everything feels slow more opaque and often mysteriously complex.

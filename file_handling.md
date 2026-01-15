@@ -5,7 +5,7 @@ date = 2025-10-04
 draft = false
 
 [taxonomies]
-tags = ["file_handling", "notes"]
+tags = ["notes"]
 +++
 ## Bash
 

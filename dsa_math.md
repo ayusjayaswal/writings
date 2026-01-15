@@ -24,7 +24,7 @@ if *n* is prime *n+2* is prime too
 always a prime btw *n^2* and *(n+1)^2*
 
 ## Goldbach
-for all prim n > 2; n = a + b; a and b are both prime.
+for all prim n > 2; n = a + b; exists a and b are both prime.
 
 ## Hamming Distances
 the number of positions where the strings differ. For example, hamming(01101,11001) = 2.

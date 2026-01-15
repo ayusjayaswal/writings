@@ -17,4 +17,4 @@ date=$(date +%Y-%M-%d)
 	echo "+++"
 } >> "$file"
 
-echo "DONE :O"
+nvim $file

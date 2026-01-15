@@ -4,7 +4,7 @@ date = 2025-10-11
 draft = false
 
 [taxonomies]
-tags = ["git", "pcon"]
+tags = ["git", "pcon", "notes"]
 +++
 
 ![](https://blogbyte.in/media/blog/2025/git.png)
