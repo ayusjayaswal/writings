@@ -4,7 +4,24 @@ date = "2026-58-15"
 [taxonomies]
 tags = []
 +++
-
+# Basic Pythonic tricks
+# Lists
+```python
+    lis = [2,3,4,5,6,7]
+    lis = [1] + lis + [8]
+    # lis is now [1,2,3,4,5,6,7,8] 
+```
+# Set
+```python
+    myset = set()
+    myset.add(1)
+    myset.remove(2)
+    myset.union(otherSet)
+    myset.intersection(otherSet)
+    myset.difference(otherSet)
+    myset.issubset(otherSet)
+    myset.issuperset(otherSet)
+```
 # Slicing
 Often for string/array ops you may need to perform fancy iterations, tis always simpler to just be smart with slicing.
 ```python

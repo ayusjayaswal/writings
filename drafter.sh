@@ -6,7 +6,7 @@ read file
 touch "$file"
 echo -n "title= "
 read title
-date=$(date +%Y-%M-%d)
+date=$(date +%Y-%m-%d)
 
 {
 	echo "+++"
